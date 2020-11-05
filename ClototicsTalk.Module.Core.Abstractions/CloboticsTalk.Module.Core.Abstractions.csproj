@@ -8,4 +8,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
     <PackageReference Include="StackExchange.Redis" Version="2.0.601" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CloboticsTalk.Infrastructure\CloboticsTalk.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>

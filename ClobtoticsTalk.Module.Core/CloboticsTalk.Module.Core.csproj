@@ -19,4 +19,8 @@
 		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.3.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\ClototicsTalk.Module.Core.Abstractions\CloboticsTalk.Module.Core.Abstractions.csproj" />
+	</ItemGroup>
+
 </Project>
