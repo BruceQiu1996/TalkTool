@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Kn2nNgfR2DbKFzXHslevdLT9P36SWrfEJ7sTWxr5aZ02kig3bEE044/6zS5uHe1dxRCP35nxr+jRH/+Pgmobw==",
+  "success": true,
+  "projectFilePath": "F:\\cloboticstalk\\TalkTool\\CloboticsTalk.Infrastructure\\CloboticsTalk.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
