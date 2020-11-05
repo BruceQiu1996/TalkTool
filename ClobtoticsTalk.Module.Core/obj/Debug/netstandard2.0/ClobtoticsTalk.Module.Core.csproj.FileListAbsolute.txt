@@ -1,0 +1,9 @@
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\bin\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.deps.json
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\bin\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.dll
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\bin\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.pdb
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.csprojAssemblyReference.cache
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.AssemblyInfoInputs.cache
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.AssemblyInfo.cs
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.csproj.CoreCompileInputs.cache
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.dll
+C:\Users\18816\source\repos\CloboticsTalk\ClobtoticsTalk.Module.Core\obj\Debug\netstandard2.0\ClobtoticsTalk.Module.Core.pdb
